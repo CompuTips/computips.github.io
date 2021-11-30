@@ -1,7 +1,12 @@
 body {
-    background-color: rgb(83, 109, 255);
+    background-color: rgb(255, 255, 255);
   }
   
+  h1 { margin: 5px; }
+  h2 { margin: 3px; }
+  h3 { margin: 2px; }
+  h4 { margin: 0px; }
+
   h6 {
     color: navy;
     margin-left: 20px;
